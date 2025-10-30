@@ -12,11 +12,11 @@ NOTE: For university students, most of the books I have listed are accessible **
 
 🌐 [Modern C++ Programming by Federico Busato](https://federico-busato.github.io/Modern-CPP-Programming/)
 
-📖 _Learn C++ by Example_ by Frances Buontempo
+📖 _Learn C++ by Example_ by Frances Buontempo \[O'Reilly\]
 
 📖 _C++ Concurrency in Action_ by Anthony Wiliams \[O'Reilly\]
 
-🌐 [Rainer Grimm's Modernes C++ Blog](https://www.modernescpp.com/)
+🌐 [Rainer Grimm's Modernes C++ Blog](https://www.modernescpp.com/) (RIP to an icon!)
 
 ### Tooling
 
@@ -42,7 +42,7 @@ NOTE: For university students, most of the books I have listed are accessible **
 
 🎥 [Computer Networks YouTube Playlist | Neso Academy](https://www.youtube.com/playlist?list=PLBlnK6fEyqRgMCUAG0XRw78UA8qnv6jEx)
 
-📖 TCP/IP Illustrated, Volume 1: The Protocols by Kevin R. Fall and W. Richard Stevens \[O'Reilly\]
+📖 _TCP/IP Illustrated, Volume 1: The Protocols_ by Kevin R. Fall and W. Richard Stevens \[O'Reilly\]
 
 #### Software Design, Design Patterns, Best Practices
 
@@ -66,4 +66,4 @@ NOTE: For university students, most of the books I have listed are accessible **
 
 📖 _Think Distributed Systems_ by Dominic Tornow \[O'Reilly\]
 
-📖 Patterns of Distributed Systems by Umesh Joshi \[O'Reilly\]
+📖 _Patterns of Distributed Systems_ by Umesh Joshi \[O'Reilly\]
