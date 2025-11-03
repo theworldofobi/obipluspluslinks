@@ -32,9 +32,21 @@ NOTE: For university students, most of the books I have listed are accessible **
 
 🌐 [Learn Git Branching | Game to Learn Basic Git Commands](https://learngitbranching.js.org/)
 
+📖 _Version Control with Git, 3rd Edition_ by Prem Kumar Ponuthorai and Jon Loeliger
+
+#### Linux Kernel
+
+📖 _Linux Kernel Programming: A comprehensive guide to kernel internals, writing kernel modules, and kernel synchronization_ by Kaiwan N. Billimori
+
+#### Databases
+
+📖 _Learning SQL, 3rd Edition_ by Alan Beaulieu
+
+📖 _Database Management Systems_ by Raghu Ramakrishnan and Johannes Gehrke
+
 #### Boost
 
-[Boost Libraries | Utah Cpp Programmers](https://www.youtube.com/playlist?list=PLJDO7P5jAoXznYam4ucdMMcKJky8UHbhC)
+🎥 [Boost Libraries | Utah Cpp Programmers](https://www.youtube.com/playlist?list=PLJDO7P5jAoXznYam4ucdMMcKJky8UHbhC)
 
 ### Concepts
 
@@ -46,15 +58,13 @@ NOTE: For university students, most of the books I have listed are accessible **
 
 #### Operating Systems
 
-🎥 [Operating System YouTube Playlist | Neso Academy](https://www.youtube.com/playlist?list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O)
-
 📖 [_Operating Systems: Three Easy Pieces_ by Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau](https://pages.cs.wisc.edu/~remzi/OSTEP/)
 
 *   [Corresponding Projects GitHub Repository](https://github.com/remzi-arpacidusseau/ostep-projects)
 
-#### Networking
+📖 _Computer Systems: A Programmer’s Perspective, Third Edition_ by Randal E. Bryant and David R. O’Hallaron.
 
-🎥 [Computer Networks YouTube Playlist | Neso Academy](https://www.youtube.com/playlist?list=PLBlnK6fEyqRgMCUAG0XRw78UA8qnv6jEx)
+#### Networking
 
 🎥 [Network Programming | Utah Cpp Programmers](https://www.youtube.com/playlist?list=PLJDO7P5jAoXzQvuy7UjFoDSdSy_FLqfOf)
 
@@ -77,15 +87,27 @@ NOTE: For university students, most of the books I have listed are accessible **
 *   Copy and Reference Puzzlers Book 1-3
 *   Opcode Puzzlers Book 1
 
-#### Computer Architecture
+#### Computer Hardware & Architecture
 
-🎥 [Digital Electronics YouTube Playlist | Neso Academy](https://www.youtube.com/playlist?list=PLBlnK6fEyqRjMH3mWf6kwqiTbT798eAOm)
+📖 _Digital Design and Computer Architecture_ by David M. Harris and Sarah L. Harris
 
-🎥 [Computer Organization & Architecture YouTube Playlist | Neso Academy](https://www.youtube.com/playlist?list=PLBlnK6fEyqRgLLlzdgiTUKULKJPYc0A4q)
+📖 _Digital Design Principles and Practices_ by John F. Wakerly
+
+📖 _Contemporary Logic Design_ by Randy Katz
+
+📖 _Computer Architecture: A Quantitative Approach, Third Edition_ by John L. Hennessy and David A. Patterson
+
+#### Compilers
+
+📖 _Compilers: Principles, Techniques, and Tools_ by Alfred V. Aho, Monica S. Lam, Ravi Sethi, & Jeffrey D. Ullman
+
+📖 _Advanced Compiler Design and Implementation_ by Steven Muchnick
 
 #### Optimization
 
 🌐 [CPP Optimizations Diary](https://cpp-optimizations.netlify.app/)
+
+📖 _C++ High Performance: Master the art of optimizing the functioning of your C++ code, Second Edition_ by Björn Andrist and Viktor Sehr
 
 #### Distributed Systems
 
