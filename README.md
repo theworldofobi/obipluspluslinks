@@ -118,3 +118,16 @@ NOTE: For university students, most of the books I have listed are accessible **
 📖 _Think Distributed Systems_ by Dominic Tornow \[O'Reilly\]
 
 📖 _Patterns of Distributed Systems_ by Umesh Joshi \[O'Reilly\]
+
+#### Finance/HFT
+
+📖 _Learning Modern C++ for Finance_ by Daniel Hanson
+
+📖 _Inside the Black Box: A Simple Guide to Quantitative and High Frequency Trading, 2nd Edition_ by Rishi K. Narang
+
+📖 _Options and Derivatives Programming in C++20: Algorithms and Programming Techniques for the Financial Industry_ by Carlos Oliveira
+
+📖 _Building Low Latency Applications with C++_ by Saurov Ghosh
+
+📖 _Developing High-Frequency Trading Systems_ by Sebastien Donadio, Saurov Ghosh, and Romain Rossier
+
