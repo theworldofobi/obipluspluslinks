@@ -72,6 +72,8 @@ NOTE: For university students, most of the books I have listed are accessible **
 
 #### Software Design, Design Patterns, Best Practices
 
+🌐 [Design Patterns | Refactoring Guru by Alexander Shvets](https://refactoring.guru/design-patterns)
+
 📖 _Beautiful C++: 30 Core Guidelines for Writing Clean, Safe, and Fast Code_ by J. Guy Davidson & Kate Gregory \[O'Reilly\]
 
 📖 _C++ Software Design_ by Klaus Iglberger \[O'Reilly\]
